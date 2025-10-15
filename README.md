@@ -11,6 +11,6 @@
 
 ## 📫 Contact
 - Email: tuanphatnguyenhuu@gmail.com
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)  
+- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/ph%C3%A1t-nguy%E1%BB%85n-h%E1%BB%AFu-tu%E1%BA%A5n-07a4b8384/)  
+- GitHub: [github.com/yourusername](https://github.com/Bintaplaptrinh)  
 
